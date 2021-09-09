@@ -6,3 +6,6 @@
 
 ## Resources
 - There is a [resources](https://github.com/DHarrisDevelop/cs4earlyhomeschool/blob/main/research/resources.md) file which lists several resources that may be used in developing the cirriculum and lesson plans
+
+## Core Tenets
+- Core tenets that go into development and maintenance of this project can be found in [core-tenets.md](core-tenets.md)
