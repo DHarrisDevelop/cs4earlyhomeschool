@@ -10,7 +10,14 @@
 - Member of the steering committee that developed the K-12 Computer Science Framework
 - Offers a [Pre-Reader Express](https://studio.code.org/s/pre-express-2021) course perfectly targeted to the goals of this cirriculum
 
-### [K-12 Computer Science Framework](https://k12cs.org/)
+### [Google for Education](https://edu.google.com/)
+- A great resource dedicated to expanding education offering tools for students and teachers across multiple domains like [digital literacy](https://edu.google.com/teaching-resources/?topic=digital-literacy), [family engagement](https://edu.google.com/teaching-resources/?topic=family-engagement), and [computer science](https://edu.google.com/teaching-resources/?topic=coding-and-computer-science).
+- Offers tons of things like [CS First](https://csfirst.withgoogle.com/s/en/home), a cirriculum for students 9-14 and [grasshopper](https://grasshopper.codes/)
+
+#### [Google - Exploring Computational Thinking](https://edu.google.com/resources/programs/exploring-computational-thinking)
+- Provides resources to help with teaching computational thinking, most importantly the [Computational Thinking for Every Educator](https://www.iste.org/learn/iste-u/computational-thinking) cirriculum
+ 
+- ### [K-12 Computer Science Framework](https://k12cs.org/)
 >The K–12 Computer Science Framework represents a vision in which all students engage in the concepts and practices of computer science. Beginning in the earliest grades and continuing through 12th grade, students will develop a foundation of computer science knowledge and learn new approaches to problem solving that harness the power of computational thinking to become both users and creators of computing technology.
 [K-12 Computer Science Framework - Vision](https://k12cs.org/a-vision-for-k-12-computer-science/)
 - Developed by a steering committee including Code.org
@@ -55,13 +62,30 @@
   - Community, global, and ethical impacts of technology
 - The cost of a print magazine is $29.99/year with online included for free, digital only is $15.00/year  
 
+### [CS Unplugged: Computer Science without a computer](https://csunplugged.org/en/)
+- A **free** resource to help with laying the foundation for computer science in a fun way
+>CS Unplugged is a collection of free learning activities that teach Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around. We originally developed this so that young students could dive head-first into Computer Science, experiencing the kinds of questions and challenges that computer scientists experience, but without having to learn programming first.
+[CS unplugged - about](https://csunplugged.org/en/about/)
+- This site offers lots of resources on various topics including:
+  - Binary Numbers
+  - Error Detection and Correction
+  - Kidbots
+  - Sorting Networks
+  - Searching Algorithims
+  - ...and more
+- There are a ton of free [printables](https://csunplugged.org/en/resources/) 
+
+### [CoderDojo](https://coderdojo.com/)
+- A network of **free**, **open**, and **local** programming clubs for young children
+- Devin worked to support the Seattle Coder Dojo and started/ran the Snohomish County Coder Dojo
+- While these Dojos are focused on in person meetups there are some good self-serve resources available including [projects to use at Dojos](https://projects.raspberrypi.org/en/coderdojo) and [free training on how to start a Dojo](https://www.futurelearn.com/courses/start-a-coder-dojo)
+
+#### [Seattle CoderDojo](https://www.seattlecoderdojo.com/)
+- Seattle CoderDojo is an example of a Coder Dojo club, Devin volunteered here. It's large, sponsored by Amazon and runs really well
+- Some of the [Tutorials and Cirriculum](https://www.seattlecoderdojo.com/resources/tutorials-curriculum/) from the Dojo are listed for free there is also a good listing of [general links](https://www.seattlecoderdojo.com/resources/general-links/) spanning a variety of topics and resources
+
 ### [Teach your kids Code](https://teachyourkidscode.com/)
 - This resource looks to mostly be an affilate marketing driven landing page, however it offers some good information about how to help teach kids coding principles
-
-### [Google - Exploring Computational Thinking](https://edu.google.com/resources/programs/exploring-computational-thinking)
-### [CS Unplugged: Computer Science without a computer](https://csunplugged.org/en/)
-### [CoderDojo](https://coderdojo.com/)
-#### [Seattle CoderDojo](https://www.seattlecoderdojo.com/) 
 
 ## Articles on Teaching kids to code
 ### [A 5-step guide to teaching kids coding (Article)](https://livecodestream.dev/post/a-5-step-guide-to-teaching-kids-coding/)
