@@ -101,6 +101,23 @@ This article offers 5 key tips on helping kids learn to code and focuses on inte
 4. Build resilience through failures - Remind child that making mistakes is a chance to learn and not something to be upset about.
 5. Build on success - Congratulate and celebrate ALL successes. Use momentum to keep them going
 
+### [Top 7 Computer Science Basics All Kids Should Learn (Article)](https://junilearning.com/blog/guide/coding-basics-kids-should-learn/)
+- We need to establish learning goals prior to starting so that we can consider `what specifically do we want the child(ren) to learn?`
+- There are 7 things important to include in learning goals for coding:
+ 1. Algorithms - Even though children may not know it they are already familiar with algorithims (like how to brush their teeth, how to tie their shoes, how to make a sandwhich, how to choose a show on Netflix)
+ 2. Sequencing - Sequencing is important in algorithims, while an algorithim has to tell you what steps you take sequencing orders those steps. Following instructions for a Lego kit is a great example of how children do this already.
+ 3. Conditionals - Children are already familiar with conditionals (if toys on floor, pick them up), (if mommy and daddy are talking, don't interrupt)
+ 4. Loops - Children are familiar with looping through things like taking turns
+ 5. Coordinates - Coordinates are more advanced and relate directly to math but it's still important to cover
+ 6. Variables - Children may have a hard time grasping this one initially but it's important for them to understand that some values may be unknown or changing.
+ 7. Functions - Children already have an idea of how functions work (an input drives an output) i.e. turning the doorknob causes the door to be able to be opened
+
+### [CS Fundamentals for Elementary Schools (Article)](https://code.org/educate/curriculum/elementary-school)
+- This is an article published by [Code.org](https://code.org) that is aimed to help educators learn how to teach computer science in elementary school
+- This article links out to the [Code.org Computer Science Fundamentals Path](https://code.org/educate/curriculum/csf)
+- This article outlines the research that goes into why it's important to teach kids to code including benefits like better testing scores
+- Links out to the [Computer Science Teachers of America Standards](https://www.csteachers.org/page/standards) and explains how code.org cirriculum is built upon them.
+
 ### [Teach Your Kids to Code: A Guide for Parents (Article)](https://www.create-learn.us/blog/teach-your-kids-to-code/)
 >Kids who code learn important problem-solving skills, develop perseverance, and hone their creativity.
 - Ensure you are using **age appropriate** methods when introducing coding to children
@@ -120,21 +137,14 @@ This article offers 5 key tips on helping kids learn to code and focuses on inte
 -  [Robot Turtles](https://www.thinkfun.com/products/robot-turtles/) is a really cool, screen free board game to help with computational thinking
 -  [Osmo](https://www.playosmo.com/) manufactuers several learning sets that are used with tablets, some focus on coding
 
-### [Top 7 Computer Science Basics All Kids Should Learn (Article)](https://junilearning.com/blog/guide/coding-basics-kids-should-learn/)
-- We need to establish learning goals prior to starting so that we can consider `what specifically do we want the child(ren) to learn?`
-- There are 7 things important to include in learning goals for coding:
- 1. Algorithms - Even though children may not know it they are already familiar with algorithims (like how to brush their teeth, how to tie their shoes, how to make a sandwhich, how to choose a show on Netflix)
- 2. Sequencing - Sequencing is important in algorithims, while an algorithim has to tell you what steps you take sequencing orders those steps. Following instructions for a Lego kit is a great example of how children do this already.
- 3. Conditionals - Children are already familiar with conditionals (if toys on floor, pick them up), (if mommy and daddy are talking, don't interrupt)
- 4. Loops - Children are familiar with looping through things like taking turns
- 5. Coordinates - Coordinates are more advanced and relate directly to math but it's still important to cover
- 6. Variables - Children may have a hard time grasping this one initially but it's important for them to understand that some values may be unknown or changing.
- 7. Functions - Children already have an idea of how functions work (an input drives an output) i.e. turning the doorknob causes the door to be able to be opened
-
-### [CS Fundamentals for Elementary Schools (Article)](https://code.org/educate/curriculum/elementary-school)
 ### [Teach Your Kids to Code: 6 Beginner's Resources for Parents (Article)](https://www.edutopia.org/blog/teach-kids-coding-resources-parents-matt-davis)
-### [Discovery Education - Computer Programming](https://app.discoveryeducation.com/learn/channels/channel/a8c3020a-076a-40f1-9ad3-0bf5bb662b96)
-
+- This resource lists some resources that are helpful for teaching children to code including:
+ - Made with Code (Google)
+ - MIT Scratch
+ - Tynker
+ - Code.org
+ - Khan Academy
+ 
 ## Coding Languages and Platforms
 ### [Scratch Jr](https://www.scratchjr.org/)
 ### [Scratch](https://scratch.mit.edu/)
@@ -144,3 +154,8 @@ This article offers 5 key tips on helping kids learn to code and focuses on inte
 ### [CodeMonkey - coding for kids](https://www.codemonkey.com/)
 ### [Tynker](https://tynker.com)
 ### [Code Combat](https://codecombat.com/)
+
+## Misc
+### [BootUp - ScratchJR examples](https://bootuppd.org/scratchjr/)
+### [CodeGuppy](https://codeguppy.com/)
+### [CSTA Resources for virtual teaching](https://csteachers.org/page/resources-for-virtual-teaching)
