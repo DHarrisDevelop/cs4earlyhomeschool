@@ -3,7 +3,25 @@
 - This file should and will evolve with time.
 
 ## Organizations that provide resources
-### CODE.org](https://code.org/)
+### [CODE.org](https://code.org/)
+- Code.org is `a nonprofit dedicated to expanding access to computer science in schools and increasing participation by young women and students from other underrepresented groups. Our vision is that every student in every school has the opportunity to learn computer science as part of their core K-12 education.` - [Code.org - About](https://code.org/about)
+- Used code.org tools when volunteering at Seattle Coder Dojo and running the Snohomish County Coder Dojo, very easy to use well put together tooling
+- Committed to **FREE** cirriculum and **Open Source** - HUGE plus :heart:
+- Member of the steering committee that developed the K-12 Computer Science Framework
+- Offers a [Pre-Reader Express](https://studio.code.org/s/pre-express-2021) course perfectly targeted to the goals of this cirriculum
+
+### [K-12 Computer Science Framework](https://k12cs.org/)
+>The K–12 Computer Science Framework represents a vision in which all students engage in the concepts and practices of computer science. Beginning in the earliest grades and continuing through 12th grade, students will develop a foundation of computer science knowledge and learn new approaches to problem solving that harness the power of computational thinking to become both users and creators of computing technology.
+[K-12 Computer Science Framework - Vision](https://k12cs.org/a-vision-for-k-12-computer-science/)
+- Developed by a steering committee including Code.org
+- Several **Key Principles**:
+  - Broaden participation in computer science
+  - Focus on the essential
+  - Do not reinvent the wheel
+  - Inform with current research and guide future research
+  - Align to nationally recognized frameworks
+  - Inspire implementation
+
 ### [Girls who code](https://girlswhocode.com/)
 ### [Teach your kids Code](https://teachyourkidscode.com/)
 ### [beanz - the Magazine for Kids, Code, and Computer Science](https://www.kidscodecs.com/)
